@@ -7,4 +7,4 @@ So the problem at hand is to predict the number of no-show appointment depending
 
 ### Instructions to Download and Run the Project:
 - The project folder has two files: The data file named "AppointmentData.csv" and the Jupyter notebook named "Appointment No-Show Prediction.ipynb"
-Download the Project folder and run the .ipynb file using Jupyter Notebook
+- Download the Project folder and run the .ipynb file using Jupyter Notebook
